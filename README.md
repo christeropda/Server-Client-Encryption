@@ -1,5 +1,8 @@
 Author: Christer H. Opdahl
 
+This project explores server/client comunication as well as rsa and aes encryption.
+
+
 #pip3
 
 pip3 is needed to install pycrypto.

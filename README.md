@@ -1,5 +1,5 @@
 Author: Christer H. Opdahl
--------------------------------pip3---------------------------------
+#-------------------------------pip3--------------------------------
 pip3 is needed to install pycrypto.
 if not installed, run the next line in terminal
 easy_install pip
@@ -7,13 +7,13 @@ easy_install pip
 linux users:
 sudo apt-get install python3-pip
 
------------------------------pycrypto-------------------------------
+#-----------------------------pycrypto------------------------------
 install pycrypto library by running this in terminal:
 pip3 install pycrypto
 
 linux users need "sudo apt-get" in front of pip3 to make it work
 
-----------------------------instruction-----------------------------
+#----------------------------instruction----------------------------
 client and server are different prosesses and must be run indevidually.
 
 run server by opening terminal in the folder and use "python3 server.py" to run

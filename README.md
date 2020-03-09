@@ -1,6 +1,6 @@
 Author: Christer H. Opdahl
 
-This project explores server/client comunication as well as rsa and aes encryption.
+This project explores server/client comunication as well as RSA and AES encryption.
 
 
 #pip3
